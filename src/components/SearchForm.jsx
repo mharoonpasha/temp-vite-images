@@ -14,7 +14,7 @@ const SearchForm = () => {
 
   return (
     <section>
-      <h1 className="title">Unsplash Images!</h1>
+      <h1 className="title">Unsplash Images</h1>
       <form onSubmit={handleSubmit} className="search-form">
         <input
           type="text"
